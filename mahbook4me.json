@@ -7,12 +7,12 @@
     {
       "name": "Truyện VN_fix",
       "author": "LocLe",
-      "path": "https://github.com/loclewq/ext_vbook/blob/ba3b73a5ffd89ade32114343a999bd0c179acbf8/truyenvn/plugin.zip",
+      "path": "https://github.com/loclewq/ext_vbook/raw/ba3b73a5ffd89ade32114343a999bd0c179acbf8/truyenvn/plugin.zip",
       "version": 46,
       "type": "comic",
       "locale": "vi_VN",
       "source": "https://truyenvn.ac",
-      "icon": "https://github.com/loclewq/ext_vbook/blob/ba3b73a5ffd89ade32114343a999bd0c179acbf8/truyenvn/icon.png",
+      "icon": "https://raw.githubusercontent.com/loclewq/ext_vbook/refs/heads/main/truyenvn/icon.png",
       "description": "Đọc truyện trên trang Truyện VN"
     }
   ]
