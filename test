@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "LocLe",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Truyện VN_fix",
+      "author": "LocLe",
+      "path": "https://github.com/loclewq/vbook_4me/blob/f444c99ac691d17c1f754d19384d2032890cbe5e/truyenvn/plugin.zip",
+      "version": 46,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://truyenvn.ac",
+      "icon": "https://github.com/loclewq/vbook_4me/blob/27e5ea8461f0a7cc739ee07ce9d27e0794c614e6/truyenvn/icon.png",
+      "description": "Đọc truyện trên trang Truyện VN"
+    }
+  ]
+}
